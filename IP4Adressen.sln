@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP4Adressen", "IP4Adressen\IP4Adressen.csproj", "{4DC3EFA9-D9B3-4DB9-9CD8-70C2989C9133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC3EFA9-D9B3-4DB9-9CD8-70C2989C9133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC3EFA9-D9B3-4DB9-9CD8-70C2989C9133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC3EFA9-D9B3-4DB9-9CD8-70C2989C9133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC3EFA9-D9B3-4DB9-9CD8-70C2989C9133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
